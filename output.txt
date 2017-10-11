@@ -1,0 +1,101 @@
+id,title,alias
+"1492","Sprite Ocarina",
+"1493","Theme Of Aqua Capital Mac Anu",
+"1499","Raid and Pacific Attack Title Screen Song",
+"1500","Assault on Surface Forces B",
+"1501","Level 1",
+"1502","Level 1 - Pre-Boss",
+"1503","Level 3",
+"1504","Mission Failure",
+"1505","Mission Success",
+"1506","Second Boss",
+"1507","Surface Boss",
+"1508","Third Boss",
+"2609","Castle",
+"2614","Menu",
+"25844","Pinball",
+"25588","The Liberation of Gracemeria",
+"26531","Zero",
+"1116","Aitos~Temple",アイトス~テンプル
+"497","Birth of Humans",Birth of the People 人々の誕生
+"1115","Bloodpool~Casandora",ブラッドプール~カサンドラ
+"1113","Demon Beast Appears",魔獣現わる
+"1112","Descent",降臨
+"1124","Ending",エンディング
+"498","Fillmore",フィルモア
+"499","Northwall",ノースウォール
+"1122","Offering",Sacrifices, Casandora Town 捧げ物
+"1110","Opening",オープニング
+"1123","Peaceful World",平和な世界
+"1118","Pyramid~Marana",Underworld ピラミッド~マラーナ
+"1114","Round Clear",ラウンドクリア
+"1120","Satan",サタン
+"1121","Silence",静寂
+"1111","Sky Castle",Sky Palace, Sky Palast 天空城
+"1117","Strong Enemy",Powerful Enemy, Kyouteki 強敵
+"1119","World Tree",All over the World 世界樹
+"1585","Andy's Theme",
+"1586","Drake's Theme",
+"1587","Eagle's Theme",
+"1588","Grit's Theme",
+"1589","Nell's Theme",
+"1590","Olaf",
+"1591","Sami's Theme",
+"1592","Sonja's Theme",
+"1593","Sturm's Theme",
+"21747","Big Boss",Quiller
+"21748","Big Boss Destroyed",Quiller Destroyed
+"1624","Black Forest",Dark Forest
+"21751","Congratulations!",You Have Saved Your Lovely Lisa
+"1625","Eggplant",
+"1628","Evil Cave",Underworld
+"21749","Game Over",
+"21745","Goal",
+"21744","Honeygirl",Honey Girl, Fairy
+"1627","Island to Island",Beach
+"21746","Losing All Energy",
+"1626","Remote Forest",Area 1: Round 1
+"21752","Stone Island",Area 4: Round 2
+"21750","Title",
+"1629","Bonus / Invincibility",
+"1630","Caves",
+"1631","Choose an Egg",
+"1632","Congratulations!",
+"1633","Credits",
+"1634","Death",
+"1635","Desert",
+"1636","Eggplant",
+"1637","Game Over",
+"1638","Goal",
+"1639","Ice Caves",
+"1640","Island Boss",
+"1641","Map Screen",
+"1642","Over The Clouds",
+"1643","Overworld 1",
+"1644","Overworld 2",
+"1645","Overworld 3",
+"1646","Skip This Island?",
+"1647","Snow Summit",
+"1648","Title Screen",
+"1649","Underwater",
+"1650","Underworld 1",
+"1651","Underworld 2",
+"1652","Victory",
+"1679","Final Battle",
+"1680","Level",Main Level Music
+"20571","Overworld",
+"1701","Boss",
+"1703","Final Take Off",Stage 1-6
+"1702","Mission Complete",
+"1704","Stage 13-18",
+"1705","Stage 7-12",
+"1706","Title Screen",
+"23396","After Burner",
+"1709","Main Theme",
+"928","Tango Alpha Bravo",
+"401","Etude for the Killer",
+"25574","Bloody Tears Hard-Rock, vers. A",
+"25872","Vampire Killer Rock",
+"25344","Beginning (Stage 4 Normal Side BGM)",Beginning(4ステージ表面BGM)
+"523","Blood Relations of Heaven and Earth (Stage 1 BGM)",乾坤の血族(1ステージBGM)
+"25342","Bloody Tears (Stage 3 Normal Side BGM)",血の涙(3ステージ表面BGM)

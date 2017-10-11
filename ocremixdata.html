@@ -1,0 +1,14 @@
+<html>
+<head>
+<script>
+function scrape()
+{
+	let songRows = document.querySelectorAll("tr.area-link");
+	console.log(songRows);
+}
+</script>
+</head>
+<body>
+<iframe src="http://ocremix.org/songs/?offset=0" onload="scrape()"><iframe>
+</body>
+</html>
